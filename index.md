@@ -1,5 +1,5 @@
 ## Welcome to Nikrabel 2
-#Oleh:Zekly Friansel Saragih
+# Oleh:Zekly Friansel Saragih
 
 Jenis-jenis jaringan nirkabel dari segi geografis
 Ada banyak jenis jaringan dan cara mengklasifikasikannya. Salah satu cara memandang jaringan adalah dari segi cakupan geografisnya yaitu:
